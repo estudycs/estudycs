@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @estudycs
+- 👋 Hi, I’m Software Developer
 - 👀 I’m interested in Web devloping
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
