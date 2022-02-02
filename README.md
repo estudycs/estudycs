@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Software Developer
-- 👀 I’m interested in Web devloping
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Computer Engineer
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Big Data
 - 📫 How to reach me www.linkedin.com/in/rashmi-wadkar-1308411b1
 
 <!---
